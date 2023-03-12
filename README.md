@@ -1,4 +1,4 @@
-# PADLOCK
+# PADLOCK.
 
 ![preview](./.github/preview.png)
 
